@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    background-repeat: center center;
 }
 
 /*Text settings*/
@@ -44,3 +45,8 @@ font-weight: bolder;}
     color: rgb(156, 18, 30);
 }
 /* Steps to joing color settings end */
+
+@media only screen and (max-width: 767px) {
+    body {background-image: url(mobile.jpg);
+    }
+    }
