@@ -44,14 +44,3 @@ font-weight: bolder;}
     color: rgb(156, 18, 30);
 }
 /* Steps to joing color settings end */
-/*mobile settings*/
-@media (min-width: 900px){
-    body{
-        text-align: center;
-        background-image: url(mobile.jpg);
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-    }
-}
-/*mobile settings end*/
