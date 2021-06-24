@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+/*Text settings*/
+.boldText{
+font-weight: bolder;}
+/* Text settings end */
+/*Link Colors*/
+.linkColor{
+    color: #58C100;
+    text-decoration: none;
+}
+.mishyyyColor{
+    color: #FF00FB;
+    text-decoration: none;
+}
+.kittenColor{
+    color: #BD1DFE;
+    text-decoration: none;
+}
+/*Link Colors end*/
+/* Steps to joing color settings */
+.step{
+    color: red;
+}
+/* Steps to joing color settings end */
