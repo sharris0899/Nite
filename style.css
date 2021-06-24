@@ -1,12 +1,29 @@
 body{
     text-align: center;
+    background-image: url(Gl3Harv.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
+
 /*Text settings*/
+.onBehalfText{
+    font-weight: bolder;
+}
+.welcomeText{
+    font-weight: bolder;
+}
+
 .boldText{
+    color: white;
 font-weight: bolder;}
+
 /* Text settings end */
+
 /*Link Colors*/
+
 .linkColor{
+    font-size: larger;
     color: #58C100;
     text-decoration: none;
 }
@@ -19,8 +36,11 @@ font-weight: bolder;}
     text-decoration: none;
 }
 /*Link Colors end*/
+
 /* Steps to joing color settings */
+
 .step{
-    color: red;
+    font-size: x-large;
+    color: rgb(156, 18, 30);
 }
 /* Steps to joing color settings end */
