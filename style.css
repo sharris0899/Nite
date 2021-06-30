@@ -6,10 +6,9 @@ html{
     background-size: cover;
 }
 body{
-    background-color: black;
-    color: white;
     text-align: center;
 }
+
 #wrapper{
     margin: 0 auto;
     width: 900px;
