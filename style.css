@@ -1,11 +1,14 @@
+html{
+    background: url(Gl3Harv.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 body{
     background-color: black;
+    color: white;
     text-align: center;
-    background-image: url(Gl3Harv.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: center center;
 }
 #wrapper{
     margin: 0 auto;
@@ -51,10 +54,3 @@ font-weight: bolder;}
     color: rgb(156, 18, 30);
 }
 /* Steps to joing color settings end */
-
-@media only screen and (max-width: 767px) {
-    body {background-image: url(mobile.jpg);
-    }
-    }
-
-    
